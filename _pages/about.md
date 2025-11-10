@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 I'm a first-year Ph.D. student in Computer Science at **Virginia Tech**, advised by [Prof. Taejoong (Tijay) Chung](https://taejoong.github.io).  
-My research broadly spans network security and Internet measurement, with a focus on understanding and improving Internet infrastructure and trust systems.
+My research broadly spans network security and Internet measurement, with a focus on understanding and improving Internet infrastructure and trust systems (like BGP and RPKI).
 
 ---
 
@@ -55,8 +55,9 @@ News
 ======
 
 - Sept 2025: Honored to receive the IMC 2025 Travel Grant.
-- Sept 2025: Two papers accepted to IMC-SW 2025 and Oakland’26.
+- Sept 2025: One paper accepted to **Oakland’26**.
 - Sept 2025: Invited to give a talk at the UCSD CAIDA AIMS-18 (GMI-AIMS-6) workshop (travel grant awarded).
+- Aug 2025: One paper accepted to ACM Internet Measurement Conference, Student Workshop, 2025.
 - Jan 2025: Joined Virginia Tech as a Ph.D. student in Computer Science. 
 
 ---
