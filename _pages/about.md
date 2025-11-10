@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 I'm a first-year Ph.D. student in Computer Science at **Virginia Tech**, advised by [Prof. Taejoong (Tijay) Chung](https://taejoong.github.io).  
-My research interests broadly span **network security** and **network measurement**, focusing on understanding and improving Internet infrastructure and trust systems.
+My research broadly spans network security and Internet measurement, with a focus on understanding and improving Internet infrastructure and trust systems.
 
 ---
 
@@ -20,7 +20,7 @@ Education
 Advisor: Prof. Taejoong (Tijay) Chung
 
 - **ETH Zürich**, Zürich, Switzerland  
-*Exchange Student in Master of Computer Science* — *Sept 2021 – Sept 2022*  
+*Exchange Student, Master of Computer Science* — *Sept 2021 – Sept 2022*  
 Supervised by Prof. Adrian Perrig
 
 - **KTH Royal Institute of Technology**, Stockholm, Sweden  
@@ -41,7 +41,7 @@ Publications
 
 1. W. Li, **Y. Xu**, T. Chung.  
    The Threat Landscape of IP Leasing in the RPKI Era.
-   *Proceedings of the IEEE Symposium on Security and Privacy (Oakland’26), 2026*
+   *Proceedings of the IEEE Symposium on Security and Privacy (Oakland’26), 2026.*
 
 2. **Y. Xu\***, W. Li\*, E. Umrani, T. Chung.  
    ASINT: Learning AS-to-Organization Mapping from Internet Metadata.
@@ -54,10 +54,10 @@ Publications
 News
 ======
 
-- *Sept 2025*: I'm honor to received IMC 2025 travel grant. 
-- *Sept 2025*: Two paper accepted to **IMC-SW 2025** and **Oakland’26**.  
-- *Sept 2025*: I was invited to give a talk in UCSD CAIDA AIMS-18 (GMI-AIMS-6) workshop with travel grant.  
-- *Jan 2025*: Joined **Virginia Tech** as a Ph.D. student in Computer Science.  
+- Sept 2025: Honored to receive the IMC 2025 Travel Grant.
+- Sept 2025: Two papers accepted to IMC-SW 2025 and Oakland’26.
+- Sept 2025: Invited to give a talk at the UCSD CAIDA AIMS-18 (GMI-AIMS-6) workshop (travel grant awarded).
+- Jan 2025: Joined Virginia Tech as a Ph.D. student in Computer Science. 
 
 ---
 
@@ -66,5 +66,5 @@ Awards and Honors
 
 - *ACM Internet Measurement Conference 2025 Travel Grant* (Sept 2025)  
 - *Scholarship from ETH Zürich NetSec Group* (Jan 2022)  
-- *KTH Royal Institute of Technology Scholarship* (May 2021)  
+- *KTH Royal Institute of Technology One-Year Scholarship* (May 2021)  
 - *Exchange Scholarship from Chongqing University* (Apr 2018)
