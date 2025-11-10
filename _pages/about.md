@@ -55,7 +55,7 @@ News
 ======
 
 - *Sept 2025*: I'm honor to received IMC 2025 travel grant. 
-- *Sept 2025*: Two paper accepted to **IMC-SW 2025** and Oakland’26.  
+- *Sept 2025*: Two paper accepted to **IMC-SW 2025** and **Oakland’26**.  
 - *Sept 2025*: I was invited to give a talk in UCSD CAIDA AIMS-18 (GMI-AIMS-6) workshop with travel grant.  
 - *Jan 2025*: Joined **Virginia Tech** as a Ph.D. student in Computer Science.  
 
