@@ -34,32 +34,37 @@ Supervised by Prof. Adrian Perrig
 
 ---
 
-Publications
-======
-
-(* denotes equal contribution)
-
-1. W. Li, **Y. Xu**, T. Chung.  
-   The Threat Landscape of IP Leasing in the RPKI Era.
-   *Proceedings of the IEEE Symposium on Security and Privacy (Oakland’26), 2026.*
-
-2. **Y. Xu\***, W. Li\*, E. Umrani, T. Chung.  
-   ASINT: Learning AS-to-Organization Mapping from Internet Metadata.
-   *ACM Internet Measurement Conference, Student Workshop (IMC-SW’25), 2025.*  
-   *Full version [ArXiv](https://arxiv.org/abs/2508.02571)*
-   *Project website [ASINT](https://asint.netsecurelab.org])*
-
-
----
 
 News
 ======
-
+- Feb 2026: One paper accepted to **IMC 2026**.
 - Sept 2025: Honored to receive the IMC 2025 Travel Grant.
 - Sept 2025: One paper accepted to **Oakland’26**.
 - Sept 2025: Invited to give a talk at the UCSD CAIDA AIMS-18 (GMI-AIMS-6) workshop (travel grant awarded).
 - Aug 2025: One paper accepted to ACM Internet Measurement Conference, Student Workshop, 2025.
 - Jan 2025: Joined Virginia Tech as a Ph.D. student in Computer Science. 
+
+---
+
+Publications
+======
+
+(* denotes equal contribution)
+
+1. RScope: Unveiling Global ROV Deployments and Dependencies in the Post-ROV Era  
+   Weitong Li\*, **Yongzhe Xu\***, Mingwei Zhang, Vasileios Giotsas, and Taejoong Chung
+   In Proceedings of the ACM Internet Measurement Conference (IMC'26), Karlsruhe, Germany, October 2026
+
+2. The Threat Landscape of IP Leasing in the RPKI Era.
+   Weitong Li, **Yongzhe Xu**, Taejoong Chung.  
+   *Proceedings of the IEEE Symposium on Security and Privacy (Oakland’26), 2026.*
+
+3. ASINT: Learning AS-to-Organization Mapping from Internet Metadata.
+   **Yongzhe Xu\***, Weitong Li\*, Eeshan Umrani, Taejoong Chung.  
+   *ACM Internet Measurement Conference, Student Workshop (IMC-SW’25), 2025.*  
+   *Full version [ArXiv](https://arxiv.org/abs/2508.02571)*
+   *Project website [ASINT](https://asint.netsecurelab.org])*
+
 
 ---
 
