@@ -51,23 +51,19 @@ Publications
 
 (* denotes equal contribution)
 
-1. RScope: Unveiling Global ROV Deployments and Dependencies in the Post-ROV Era  
-   
-   Weitong Li\*, **Yongzhe Xu\***, Mingwei Zhang, Vasileios Giotsas, and Taejoong Chung
+1. Weitong Li\*, **Yongzhe Xu\***, Mingwei Zhang, Vasileios Giotsas, and Taejoong Chung
+   RScope: Unveiling Global ROV Deployments and Dependencies in the Post-ROV Era.
    In Proceedings of the ACM Internet Measurement Conference (IMC'26), Karlsruhe, Germany, October 2026
 
-2. The Threat Landscape of IP Leasing in the RPKI Era.
-   
-   Weitong Li, **Yongzhe Xu**, Taejoong Chung.  
+2. Weitong Li, **Yongzhe Xu**, Taejoong Chung. 
+   The Threat Landscape of IP Leasing in the RPKI Era.
    *Proceedings of the IEEE Symposium on Security and Privacy (Oakland’26), 2026.*
 
-3. ASINT: Learning AS-to-Organization Mapping from Internet Metadata.
-   
-   **Yongzhe Xu\***, Weitong Li\*, Eeshan Umrani, Taejoong Chung.  
+3. **Yongzhe Xu\***, Weitong Li\*, Eeshan Umrani, Taejoong Chung.
+   ASINT: Learning AS-to-Organization Mapping from Internet Metadata.  
    *ACM Internet Measurement Conference, Student Workshop (IMC-SW’25), 2025.*  
    *Full version [ArXiv](https://arxiv.org/abs/2508.02571)*
    *Project website [ASINT](https://asint.netsecurelab.org])*
-
 
 ---
 
