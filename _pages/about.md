@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a first-year Ph.D. student in Computer Science at **Virginia Tech**, advised by [Prof. Taejoong (Tijay) Chung](https://taejoong.github.io).  
+I'm a second-year Ph.D. student in Computer Science at **Virginia Tech**, advised by [Prof. Taejoong (Tijay) Chung](https://taejoong.github.io).  
 My research broadly spans network security and Internet measurement, with a focus on understanding and improving Internet infrastructure and trust systems (like BGP and RPKI).
 
 ---
